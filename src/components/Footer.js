@@ -11,7 +11,7 @@ export default class Footer extends Component {
 
 {/* Column 1 */}
 <div className='col-md-3 col-sm-6'>
-    <h4>Crypto-Loan</h4>
+    <h4>Crypto-Loans</h4>
     <p>Generic Slogan</p>
 </div>
 {/* Column 2 */}
