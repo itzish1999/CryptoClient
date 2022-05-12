@@ -4,7 +4,7 @@ import {Navbar, Nav, Container} from 'react-bootstrap';
 export default class NavbarTop extends Component {
     render() {
         return (
-            <div class="fixed-top">
+    <div class="fixed-top">
     <Navbar bg="dark" variant="dark">
     <Container>
     <Navbar.Brand href="#home">Crypto-Loans</Navbar.Brand>
